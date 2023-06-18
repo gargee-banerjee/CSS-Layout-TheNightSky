@@ -1,0 +1,22 @@
+.bodyFifthContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bodyFifthContainer .contentDescriptionContainer{
+    display: flex;
+    align-items: start;
+    margin: 0;
+}
+.bodyFifthContainer .description{
+    text-align: left;
+}
+.bodyFifthContainer .startButton{
+    width:125px;
+    margin-top: 40px;
+}
+
+.bodyFifthContainer img{
+    width: 400px;
+    border-radius: 70px;
+}

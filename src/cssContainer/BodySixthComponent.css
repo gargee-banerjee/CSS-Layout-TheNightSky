@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Roboto+Condensed:wght@300&display=swap");
+
+.bodySixthComponentContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 100px 150px 100px;
+}
+.bodySixthComponentContainer .sixthCompLeft {
+  font-family: "Bruno Ace SC", cursive;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+.bodySixthComponentContainer .sixthCompRight {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 200px;
+}
+.bodySixthComponentContainer .sixthCompRight > * {
+  margin-top: 5px;
+  color: rgba(184, 192, 199, 0.658);
+  font-size: 1.5rem;
+  font-weight:bold;
+}

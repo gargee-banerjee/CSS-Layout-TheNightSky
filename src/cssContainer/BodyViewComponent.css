@@ -1,0 +1,39 @@
+.bodyContainer {
+  /* display: grid; */
+  /* grid-template-rows: repeat(6, 1fr); */
+  border: 2px solid wheat;
+}
+
+.demo {
+  font-size: 15rem;
+  border: 2px solid wheat;
+
+}
+
+/************** TITLE COMPONENT*************** */
+.bodyTitleContainer{
+    width:300px;
+}
+
+.bodyTitleContainer .title{
+    font-size:1.5rem;
+
+}
+
+.bodyTitleContainer .titleDescription{
+    font-size:3.5rem;
+    margin: 20px 0 0 0;
+
+}
+
+.titleButtons{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0 0 0;
+}
+
+.titleButtonLearn{
+    border: 1px solid rgba(189, 184, 184, 0.295);
+    background-color: transparent;
+    margin: 0 20px 0 0;
+}

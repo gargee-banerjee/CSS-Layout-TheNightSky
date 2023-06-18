@@ -1,0 +1,7 @@
+.blurredBackgroundContainer {
+  background-color: rgba(189, 184, 184, 0.295);
+  color: antiquewhite;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 1rem;
+}

@@ -1,0 +1,32 @@
+.oldContentDescriptionContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin: auto;
+}
+
+.oldContentDescriptionContainer .title{
+    color: rgb(126, 111, 244);
+    /* font-size: 1.5rem; */
+    font-weight: bold;
+
+}
+
+.oldContentDescriptionContainer .oldTitleExplain{
+    /* color: rgb(126, 111, 244); */
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top:10px ;
+
+
+}
+
+
+.oldContentDescriptionContainer .oldDescription{
+    color: rgb(170, 170, 173);
+    margin-top:15px ;
+    text-align: center;
+}
+
