@@ -2,11 +2,14 @@
 
 
 Getting Started
+
 1)Clone the repo
-2)Install NPM packages
-npm install
-3)Run the project
-npm start
+
+2)Install NPM packages :: 
+"npm install"
+
+3)Run the project :: 
+"npm start"
 
 Final look
 ![Screenshot (10)](https://github.com/gargee-banerjee/Designs/assets/61202425/76c28048-7b39-41d2-8caa-41629efc4290)
